@@ -75,10 +75,3 @@ This project demonstrates how to set up **VPC Peering** between two VPCs in AWS.
 
 ---
 
-## 📌 Future Enhancements  
-
-- Add **Transit Gateway** for multiple VPC connectivity  
-- Automate with **Terraform** or **CloudFormation**  
-- Add **NAT Gateway** for internet access from private subnet  
-
----
