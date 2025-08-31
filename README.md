@@ -68,17 +68,6 @@ This project demonstrates how to set up **VPC Peering** between two VPCs in AWS.
 
 ---
 
-## 📂 Project Structure  
-
-```
-VPC-Peering-Project/
-│-- README.md
-│-- architecture.png (Optional if you create a diagram image)
-│-- setup-steps.txt
-```
-
----
-
 ## 👩‍💻 Author  
 
 **Prajakta Pandaram**  
